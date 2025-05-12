@@ -12,8 +12,11 @@ This project is a simple web-based digit recognition system that uses a Convolut
 ## How to Run
 
 1.Clone the repository.
+
 2.Install dependencies using pip install -r requirements.txt.
+
 3.Run the Flask app with python app.py.
+
 4.Open http://127.0.0.1:5000/ in your browser to access the app.
 
 ## Features
