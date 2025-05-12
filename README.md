@@ -2,6 +2,13 @@
 
 This project is a simple web-based digit recognition system that uses a Convolutional Neural Network (CNN) trained on the MNIST dataset. Users can draw digits (0–9) in a browser, and the model will predict the digit using a Flask backend and TensorFlow model.
 
+## Tech Stack
+
+* Python
+* TensorFlow
+* Flask
+* HTML/CSS/JS
+
 ## 🚀 Features
 
 🎨 Draw digits (0–9) directly in the browser.
